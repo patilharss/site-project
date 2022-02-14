@@ -2615,19 +2615,19 @@ fieldset:disabled .btn {
 }
 
 .btn-primary {
-  color: #000;
+  color: #FFF;
   background-color: #d9475c;
   border-color: #d9475c;
 }
 
 .btn-primary:hover {
-  color: #000;
+  color: rgb(255, 255, 255);
   background-color: #d9475c;
   border-color: #d9475c;
 }
 
 .btn-check:focus + .btn-primary, .btn-primary:focus {
-  color: #000;
+  color: rgb(255, 255, 255);
   background-color: #d9475c;
   border-color: #d9475c;
   box-shadow: 0 0 0 0.25rem rgba(209, 190, 80, 0.5);
